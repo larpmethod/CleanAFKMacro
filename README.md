@@ -6,7 +6,7 @@ Clean AFK Macro is a lightweight and user-friendly automation tool that simulate
 
 ## ⬇️ Download
 
-👉 [Download Here](https://github.com/larpmethod/CleanAFKMacro/releases/download/v1.0/CleanAFKMacro-Setup-1.1.0.exe)
+👉 [Download Here](https://github.com/larpmethod/CleanAFKMacro/releases/download/V1.0/CleanAFKMacro-Setup-1.1.0.exe)
 
 ---
 
