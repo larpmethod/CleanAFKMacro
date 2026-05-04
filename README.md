@@ -20,6 +20,11 @@ It is designed to keep applications or games active while you are away (AFK).
   <img src="./assets/Timer.PNG" width="22%"/>
 </p>
 
+
+## 📸 Youtube Video 
+
+[Clean AFK Macro Release V1.0](https://www.youtube.com/watch?v=_I1c6WfEb10)
+
 ---
 
 ## ✨ Features
