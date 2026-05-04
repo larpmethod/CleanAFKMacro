@@ -14,10 +14,10 @@ It is designed to keep applications or games active while you are away (AFK).
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/v1.0%20Release/Home.png" width="22%"/>
-  <img src="./assets/v1.0%20Release/Keybinds.png" width="22%"/>
-  <img src="./assets/v1.0%20Release/Settings.png" width="22%"/>
-  <img src="./assets/v1.0%20Release/Timer.png" width="22%"/>
+  <img src="./assets/v1.0-Release/Home.png" width="22%"/>
+  <img src="./assets/v1.0-Release/Keybinds.png" width="22%"/>
+  <img src="./assets/v1.0-Release/Settings.png" width="22%"/>
+  <img src="./assets/v1.0-Release/Timer.png" width="22%"/>
 </p>
 
 ---
