@@ -14,10 +14,10 @@ It is designed to keep applications or games active while you are away (AFK).
 ## 📸 Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/larpmethod/CleanAFKMacro/main/assets/v1.0%20Release/Home.png" width="22%"/>
-  <img src="https://raw.githubusercontent.com/larpmethod/CleanAFKMacro/main/assets/v1.0%20Release/Keybinds.png" width="22%"/>
-  <img src="https://raw.githubusercontent.com/larpmethod/CleanAFKMacro/main/assets/v1.0%20Release/Settings.png" width="22%"/>
-  <img src="https://raw.githubusercontent.com/larpmethod/CleanAFKMacro/main/assets/v1.0%20Release/Timer.png" width="22%"/>
+  <img src="./assets/Home.png" width="22%"/>
+  <img src="./assets/Keybinds.png" width="22%"/>
+  <img src="./assets/Settings.png" width="22%"/>
+  <img src="./assets/Timer.png" width="22%"/>
 </p>
 
 ---
