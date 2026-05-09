@@ -1,72 +1,11 @@
 # Clean AFK Macro
 
-Clean AFK Macro is a lightweight and user-friendly automation tool that simulates keyboard inputs at customizable intervals.  
-It is designed to keep applications or games active while you are away (AFK).
+--- 
 
----
+Clean AFK Macro is Not Active on This Repository anymore
+   - New Repository: [Velari Macro](https://github.com/larpmethod/Velari-Macro)
 
-## ⬇️ Download
+--- 
 
-👉 [Download Latest Release](https://github.com/larpmethod/CleanAFKMacro/releases/download/V1.0/CleanAFKMacro-Setup-1.1.0.exe)
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="./assets/Home.PNG" width="22%"/>
-  <img src="./assets/Keybinds.PNG" width="22%"/>
-  <img src="./assets/Settings.PNG" width="22%"/>
-  <img src="./assets/Timer.PNG" width="22%"/>
-</p>
-
-
-## 📸 Youtube Video 
-
-[Clean AFK Macro Release V1.0](https://www.youtube.com/watch?v=_I1c6WfEb10)
-
----
-
-## ✨ Features
-
-- Clean and intuitive user interface  
-- Customizable key bindings  
-- Adjustable key press durations  
-- Start, pause, and stop controls  
-- Hotkey support  
-  - `F6` → Pause  
-  - `F7` → Resume  
-  - `F8` → Stop  
-- Low system resource usage  
-
----
-
-## 🛠️ How It Works
-
-1. Select the keys you want to simulate  
-2. Set the duration (in seconds) for each key  
-3. Start the macro  
-4. The tool will automatically press the selected keys in a loop  
-
----
-
-## 🎯 Use Cases
-
-- Prevent idle/AFK detection in applications or games  
-- Automate repetitive keyboard tasks  
-- Keep sessions active without manual input  
-
----
-
-## ⚠️ Disclaimer
-
-This software is intended for personal and educational use only.  
-Make sure to comply with the terms of service of any application, game, or platform you use it with.
-
-> Hobby project — may or may not receive future updates.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+New Name: The new Name is Velari Macro
+New UI: New UI Clean Modern and in teh Velari Style. 
